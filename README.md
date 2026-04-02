@@ -73,7 +73,7 @@ Genomic risk modeling using a national cohort of 30,000+ participants to stratif
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ryan--packer-blue?logo=linkedin)](https://linkedin.com/in/ryan-packer-39820)
-
+[![Email](https://img.shields.io/badge/Email-rtpackr@yahoo.com-red?logo=yahoo)](mailto:rtpackr@yahoo.com)
 
 # Past Work Experience – Portfolio Samples
 
@@ -102,11 +102,6 @@ Most of this work was done in support of NIH-funded, multi-institutional studies
 
 ---
 
-> ⚠️ *All code in this repository uses synthetic or de-identified data. No PHI or patient-level information is present.*
-
-
-
-[![Email](https://img.shields.io/badge/Email-rtpackr@yahoo.com-red?logo=yahoo)](mailto:rtpackr@yahoo.com)
 
 > ⚠️ *All code in this portfolio uses synthetic or publicly available data. No patient data or PHI is present in any repository.*
 
