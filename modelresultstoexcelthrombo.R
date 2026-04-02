@@ -14,7 +14,7 @@
 #
 # Models:      Unadjusted + 11 sequentially adjusted models
 #
-# NOTE: Update data.path and output.path before running.
+
 # =============================================================================
 
 
