@@ -13,9 +13,7 @@
 #   Plot 3 — Odds Ratio (IL-1b tertile comparisons):
 #             IL-1b T1 vs T2, IL-1b T1 vs T3
 #
-# NOTE: Update input.path and output.path before running.
-#       Input files are the weighted regression result workbooks produced by
-#       the regression tables script (one .xlsx per biomarker, 3 sheets each).
+# 
 # =============================================================================
 
 
