@@ -40,12 +40,6 @@ library(broom)
 library(purrr)
 #read in data..... IL-1b needs to be broken into quartiles (see analytic plan)
 
-# #il1b in this data.....il1....confirm but combed through other data and this look like it....need to be in quartiles
-# biomedior=read.sas7bdat('path/to/biomedior_results_id.sas7bdat')
-# 
-# 
-# BMDR_dat=readRDS('path/to/BMDR_dat.rds')
-# calvars_rsi=read.sas7bdat('path/to/calcvars_rsi.sas7bdat')
 
 
 #analytic sample data
@@ -201,15 +195,6 @@ for (exposure in exposures) {
 #Need to do: standardize...Fix model results output table(kat c code)....log the biomarkers
 
 # Calculate weighted standard deviation for blineFVIII
-# loweprojanset_exlu_t$blineFVIII_sd <-  wtd.var(loweprojanset_exlu_t$blineFVIII, weights = loweprojanset_exlu_t$cc_weight)
-# loweprojanset_exlu_t$blineFVIII_sd <- sqrt(loweprojanset_exlu_t$blineFVIII_sd)
-
-#create 3 new rs vars that is the index/sd(index) and use those ij the models instead!
-
-###REMOVE THE REVERSE T AND REVERSET CI for fix and eselectin add in normal CI 95% 
-
-
-#fix######reverse transform for this is wonky cuz this bio makrer is not logged
 
 
 
