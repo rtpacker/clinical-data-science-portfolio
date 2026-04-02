@@ -26,7 +26,6 @@
 #         - Race
 #         - HIT antibody test result category
 #
-# NOTE: Update path/to/hitanalytic.csv before running.
 # =============================================================================
 
 
