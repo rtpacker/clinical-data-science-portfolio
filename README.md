@@ -74,6 +74,7 @@ Genomic risk modeling using a national cohort of 30,000+ participants to stratif
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ryan--packer-blue?logo=linkedin)](https://linkedin.com/in/ryan-packer-39820)
 [![Email](https://img.shields.io/badge/Email-rtpackr@yahoo.com-red?logo=yahoo)](mailto:rtpackr@yahoo.com)
+[![Email](https://img.shields.io/badge/Email-rtpackr@yahoo.com-red?logo=yahoo)](mailto:ryan.t.packer@gmail.com)
 
 # Past Work Experience – Portfolio Samples
 
