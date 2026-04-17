@@ -66,7 +66,7 @@ Genomic risk modeling using a national cohort of 30,000+ participants to stratif
 
 **M.S. in Statistics** — University of Vermont, Burlington, VT
 
-**B.S. in Mathematics** — Saint Michael's College, Colchester, VT
+**B.S. in Mathematics** — St. Michael's College, Colchester, VT
 
 ---
 
